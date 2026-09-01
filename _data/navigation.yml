@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+
+  - title: "Home"
+    url: /
+
+  - title: "Essays"
+    url: /year-archive/
+
+  - title: "Topics"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+
   - title: "About"
     url: /about/
