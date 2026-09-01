@@ -3,11 +3,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Essays"
-    url: /year-archive/
-
-  - title: "Topics"
-    url: /categories/
+  - title: "Posts"
+    url: /_posts/
 
   - title: "About"
     url: /about/
