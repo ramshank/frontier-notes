@@ -17,6 +17,4 @@ I write about:
 
 My goal is to explore how organizations create value in the age of intelligence.
 
-Many discussions about AI focus on models.
-
-I focus on adoption.
+Many discussions about AI focus on models. I focus on adoption.
